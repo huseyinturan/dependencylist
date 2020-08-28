@@ -1,0 +1,16 @@
+ android.
+kotlin.
+java.
+okhttp3.
+com.google.
+org.json.
+io.reactivex
+io.fabric.sdk
+org.xbill
+com.squareup.
+ dagger.
+ com.airbnb.lottie
+ androidx.
+ butterknife.
+ retrofit2.
+ 
